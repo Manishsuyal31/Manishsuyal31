@@ -1,6 +1,4 @@
-# 🎖️ Venom Kage
-
-**`Kaging since 2001`**
+# 🎖️ Manish Singh Suyal
 
 I'm a self-taught full-stack developer from India. And I sometimes create YouTube videos as well. All coding projects are built from scratch, from planning and designing to developing them. All video content is built the same way, from ideation and planning, all the way to finalizing the content with important touches. My YouTube channel is "[VenomKage][youtube]" with more than 21k views.
 
