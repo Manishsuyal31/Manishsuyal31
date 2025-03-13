@@ -1,62 +1,48 @@
-# 🎖️ Manish Singh Suyal
+<!-- Fancy GitHub Profile README -->
 
-I'm a self-taught full-stack developer from India. And I sometimes create YouTube videos as well. All coding projects are built from scratch, from planning and designing to developing them. All video content is built the same way, from ideation and planning, all the way to finalizing the content with important touches. My YouTube channel is "[VenomKage][youtube]" with more than 21k views.
-
-   <p align="left">
-      <a href="https://www.youtube.com/c/venomkage?sub_confirmation=1">
-         <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC0pOq9VViA1i9s7R3pGF_4g?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
-      <a href="https://github.com/VenomKage?tab=followers">
-         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/VenomKage?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-      <a href="https://github.com/VenomKage?tab=repositories&sort=stargazers">
-         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/VenomKage?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-   </p>
+<h1 align="center">🚀 Manish | Web & Mobile Developer</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=00FF00&center=true&vCenter=true&width=450&lines=Full-Stack+Developer;React+Native+%7C+Expo+%7C+WordPress;Passionate+About+Building+Impactful+Apps">
+</p>
 
 ---
 
-### 🧰 Languages and Tools
+### 🌟 About Me
+- 👨‍💻 **Passionate Developer** | Building **React Native apps & WordPress websites**
+- 🔥 **Current Project:** User Information App (Expo + Random Data API)
+- 📚 **Learning:** Advanced Git workflows & Backend integration
+- 💡 **Fun Fact:** I love problem-solving and automating tasks 🚀
 
-<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
-<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<img align="left" alt="Gradle" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg" />
-<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-<br />
+---
 
-## <br><br>
+### 🛠 Tech Stack
+<p align="center">
+  <img src="https://img.shields.io/badge/Code-React_Native-blue?style=for-the-badge&logo=react" />
+  <img src="https://img.shields.io/badge/Framework-Expo-lightgrey?style=for-the-badge&logo=expo" />
+  <img src="https://img.shields.io/badge/CMS-WordPress-blue?style=for-the-badge&logo=wordpress" />
+  <img src="https://img.shields.io/badge/Version_Control-Git-orange?style=for-the-badge&logo=git" />
+  <img src="https://img.shields.io/badge/Hosting-Vercel-black?style=for-the-badge&logo=vercel" />
+</p>
 
-### 📊 Stats
+---
 
-<a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AVS1508&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AVS1508&theme=buefy&layout=compact" />
-</a>
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-USERNAME&theme=radical&hide_border=true" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=radical&hide_border=true" />
+</p>
 
-<br/>
+---
 
-### Support:
+### 📫 Connect with Me
+<p align="center">
+  <a href="https://github.com/YOUR-USERNAME"><img src="https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://linkedin.com/in/YOUR-LINK"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="mailto:YOUR-EMAIL"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</p>
 
-<div style="display:flex;flex-direction:column;align-items:left;justify-content:space-between;">
-<a href="https://www.buymeacoffee.com/venomkage"> 
-<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="venomkage" /></a>
-<br>
-</div>
+---
 
-#
-
-<details>
- <summary><h3>👨‍💻 Kage's Coding Journey</h3></summary>
-   I started my coding journey as a naive computer science student with a passion to learn everything I could about this programming world - code, unix, linux, theory. And all the while, teaching myself iOS and android development with a dream to build my own app, but that soon got overshadowed because of my job, that I landed after learning React Native, during my graduation years. However, I had another desire I had been pursuing throughout this time - YouTube content creation. I eventually ended up quitting my job to pursue my desire of making my own application and to maybe publish YouTube videos simultaneously, and that has been my focus ever since.
-
-In 2023 I'm focusing on learning more skills like Docker, Kubernetes and Cloud platforms like aws which will eventually help me in launching a successful product of mine.
-Thanks for reading, and keep learning.
-
-[youtube]: https://youtube.com/venomkage
+🎯 **Let’s Connect & Build Something Awesome!** 🚀  
